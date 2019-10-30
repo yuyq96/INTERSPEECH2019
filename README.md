@@ -26,3 +26,9 @@
 - [x] Ensemble Models for Spoofing Detection in Automatic Speaker Verification
   - `Ensemble`
   - Ensemble traditional ML models (GMM, SVM) and deep models (CNN, CRNN, Sample-level CNN, Wave-U-Net)
+
+### Oral 3-2: Speaker Recognition 1
+
+- [x] Seep Speaker Recognition: Modular or Monolithic?
+  - `AAM-Softmax` `Neural backend`
+  - VoxCeleb1 EER 0.55%
