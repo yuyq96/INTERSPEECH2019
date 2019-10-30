@@ -22,3 +22,7 @@
 
 - [x] ASSERT: Anti-Spoofing with Squeeze-Excitation and Residual neTworks
   - `Acoustic features` `Squeeze-and-excitation` `Residual`
+
+- [x] Ensemble Models for Spoofing Detection in Automatic Speaker Verification
+  - `Ensemble`
+  - Ensemble traditional ML models (GMM, SVM) and deep models (CNN, CRNN, Sample-level CNN, Wave-U-Net)
