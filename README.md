@@ -50,3 +50,26 @@
 
 - [x] Lanhua You, Wu Guo, Li-Rong Dai, Jun Du. *Deep Neural Network Embeddings with Gating Mechanisms for Text-Independent Speaker Verification* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1746.html)]
   - `TI-SV` `SRE` `Gated CNN` `Gated-attention statistics pooling`
+
+### Oral 4-1: Speaker and Language Recognition 1
+
+- [ ] Jee-weon Jung, Hee-Soo Heo, Ju-ho Kim, Hye-jin Shim, Ha-Jin Yu. *RawNet: Advanced End-to-End Deep Neural Network Using Raw Waveforms for Text-Independent Speaker Verification* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1982.html)]
+
+- [ ] Wei Rao, Chenglin Xu, Eng Siong Chng, Haizhou Li. *Target Speaker Extraction for Multi-Talker Speaker Verification* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1410.html)]
+
+### Oral 5-5: Speaker Recognition Evaluation
+
+### Special Session 7-3: The VOiCES from a Distance Challenge - O
+
+### Special Session 7-A: The VOiCES from a Distance Challenge - P
+
+### Oral 8-5: Speaker Recognition 2
+
+### Poster 6-A: Speaker Recognition and Anti-Spoofing
+
+- [x] Lei Fan, Qing-Yuan Jiang, Ya-Qi Yu, Wu-Jun Li. *Deep Hashing for Speaker Identification and Retrieval* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2457.html)]
+  - `TI-SR` `VoxCeleb` `Deep additive margin hashing`
+
+### Poster 9-A: Speaker and Language Recognition 2
+
+### Poster 10-A: Speaker Recognition 3
