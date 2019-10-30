@@ -17,3 +17,8 @@
   - `Data augmentation` `DNN based bandwidth extension`
   - After voice conversion, e.g., speed perturbation, utterances should be assigned with new speaker labels
   - Use DNN to estimate missing filter banks for low-bandwidth features
+
+### Special Session 4-A: The 2019 Automatic Speaker Veriﬁcation Spooﬁng and Countermeasures Challenge: ASVspoof Challenge - P
+
+- [x] ASSERT: Anti-Spoofing with Squeeze-Excitation and Residual neTworks
+  - `Acoustic features` `Squeeze-and-excitation` `Residual`
