@@ -12,3 +12,8 @@
 
 - [x] Improving Aggregation and Loss Function for Better Embedding Learning in End-to-End Speaker Veriﬁcation System [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1489.html)]
   - `Multi-stage aggregation (MSA)` `DALoss`
+
+- [x] Speaker Augmentation and Bandwidth Extension for Deep Speaker Embedding
+  - `Data augmentation` `DNN based bandwidth extension`
+  - After voice conversion, e.g., speed perturbation, utterances should be assigned with new speaker labels
+  - Use DNN to estimate missing filter banks for low-bandwidth features
