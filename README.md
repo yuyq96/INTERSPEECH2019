@@ -6,3 +6,9 @@
 
 - [x] Advances in Automatic Speech Recognition for Child Speech Using Factored Time Delay Neural Network [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2980.html)]
   - `TDNN-F` `Data augmentation` `Vocal tract length normalization (VTLN)`
+  - TDNN-F: Subsample + SVD
+
+### Poster 1-A: Speaker Recognition and Diarization
+
+- [x] Improving Aggregation and Loss Function for Better Embedding Learning in End-to-End Speaker Veriﬁcation System [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1489.html)]
+  - `Multi-stage aggregation (MSA)` `DALoss`
