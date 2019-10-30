@@ -29,7 +29,7 @@
 
 ### Oral 3-2: Speaker Recognition 1
 
-- [x] Gautam Bhattacharya, Jahangir Alam, Patrick Kenny. *Seep Speaker Recognition: Modular or Monolithic?* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/3146.html)]
+- [x] Gautam Bhattacharya, Jahangir Alam, Patrick Kenny. *Deep Speaker Recognition: Modular or Monolithic?* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/3146.html)]
   - `TI-SV` `VoxCeleb` `AAM-Softmax` `Neural backend`
   - VoxCeleb1 EER 0.55%
 
