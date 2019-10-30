@@ -35,4 +35,4 @@
 
 - [x] Shuai Wang, Johan Rohdin, Lukáš Burget, Oldřich Plchot, Yanmin Qian, Kai Yu, Jan Černocký. *On the Usage of Phonetic Information for Text-independent Speaker Embedding Extraction* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/3036.html)]
   - `TI-SV` `VoxCeleb` `Phonetic Information`
-  - Use phonetic information before segment-level, i.e., at the frame-level stage of the network
+  - Encourage phonetic information at the frame-level stage and suppress it at the segment-level stage
