@@ -44,7 +44,9 @@
   - `TI-SV` `SRE` `VOiCES` `Multi-task learning`
   - Use the first- and higher-order statistics as the reconstruction targets
 
-- [ ] Zhanghao Wu, Shuai Wang, Yanmin Qian, Kai Yu. *Data Augmentation Using Variational Autoencoder for Embedding Based Speaker Verification* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2248.html)]
+- [x] Zhanghao Wu, Shuai Wang, Yanmin Qian, Kai Yu. *Data Augmentation Using Variational Autoencoder for Embedding Based Speaker Verification* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2248.html)]
+  - `TI-SV` `SRE` `Data augmentation` `Conditional VAE`
+  - Train CVAE on manually augmented samples, then generate more embeddings for training PLDA
 
 - [x] Lanhua You, Wu Guo, Li-Rong Dai, Jun Du. *Deep Neural Network Embeddings with Gating Mechanisms for Text-Independent Speaker Verification* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1746.html)]
   - `TI-SV` `SRE` `Gated CNN` `Gated-attention statistics pooling`
