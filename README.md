@@ -68,7 +68,7 @@
 ### Poster 6-A: Speaker Recognition and Anti-Spoofing
 
 - [x] Lei Fan, Qing-Yuan Jiang, Ya-Qi Yu, Wu-Jun Li. *Deep Hashing for Speaker Identification and Retrieval* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2457.html)]
-  - `TI-SR` `VoxCeleb` `Deep additive margin hashing`
+  - `TI-SR` `VoxCeleb` `Deep additive margin hashing (DAMH)`
 
 ### Poster 9-A: Speaker and Language Recognition 2
 
