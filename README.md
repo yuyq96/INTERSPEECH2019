@@ -8,6 +8,11 @@
   - `ASR` `TDNN-F` `Data augmentation` `Vocal tract length normalization (VTLN)`
   - TDNN-F: Subsample + SVD
 
+### Oral 1-1:
+
+- [x] Jason Li, Vitaly Lavrukhin, Boris Ginsburg, Ryan Leary, Oleksii Kuchaiev, Jonathan M. Cohen, Huyen Nguyen, Ravi Teja Gadde. *Jasper: An End-to-End Convolutional Neural Acoustic Model* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1819.html)]
+  - `ASR` `LibriSpeech` `WSJ` `Hub5'00` `1D Conv` `Dense Residual` `NovoGrad`
+
 ### Poster 1-A: Speaker Recognition and Diarization
 
 - [x] Zhifu Gao, Yan Song, Ian McLoughlin, Pengcheng Li, Yiheng Jiang, Li-Rong Dai. *Improving Aggregation and Loss Function for Better Embedding Learning in End-to-End Speaker Veriﬁcation System* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1489.html)]
