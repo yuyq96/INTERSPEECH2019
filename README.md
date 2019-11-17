@@ -87,7 +87,8 @@
   - `TI-SR` `VoxCeleb` `Conv1D` `Squeeze-and-excitation (SE)` `Additive supervision softmax`
   - Use statistics pooling to replace global average pooling in squeeze-and-excitation
 
-- [ ] Suwon Shon, Hao Tang, James Glass. *VoiceID Loss: Speech Enhancement for Speaker Verification* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1496.html)]
+- [x] Suwon Shon, Hao Tang, James Glass. *VoiceID Loss: Speech Enhancement for Speaker Verification* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1496.html)]
+  - `TI-SR` `Speech enhancement (SE)` `VoxCeleb` `Mask` `Conv1D`
 
 ### Poster 6-A: Speaker Recognition and Anti-Spoofing
 
