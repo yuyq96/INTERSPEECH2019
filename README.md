@@ -128,7 +128,9 @@
 
 - [ ] Pierre-Michel Bousquet, Mickael Rouvier. *On Robustness of Unsupervised Domain Adaptation for Speaker Recognition* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1524.html)]
 
-- [ ] Suwon Shon, Younggun Lee, Taesu Kim. *Large-Scale Speaker Retrieval on Random Speaker Variability Subspace* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1498.html)]
+- [x] Suwon Shon, Younggun Lee, Taesu Kim. *Large-Scale Speaker Retrieval on Random Speaker Variability Subspace* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1498.html)]
+  - `TI-SR` `VoxCeleb` `LSH`
+  - Projecting on random speaker-variability subspace instead of random subspace
 
 ### Poster 9-A: Speaker and Language Recognition 2
 
