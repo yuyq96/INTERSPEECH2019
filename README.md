@@ -110,7 +110,8 @@
 
 - [ ] Sungrack Yun, Janghoon Cho, Jungyun Eum, Wonil Chang, Kyuwoong Hwang. *An End-to-End Text-Independent Speaker Verification Framework with a Keyword Adversarial Network* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2208.html)]
 
-- [ ] Soonshin Seo, Daniel Jun Rim, Minkyu Lim, Donghyun Lee, Hosung Park, Junseok Oh, Changmin Kim, Ji-Hwan Kim. *Shortcut Connections Based Deep Speaker Embeddings for End-to-End Speaker Verification System* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2195.html)]
+- [x] Soonshin Seo, Daniel Jun Rim, Minkyu Lim, Donghyun Lee, Hosung Park, Junseok Oh, Changmin Kim, Ji-Hwan Kim. *Shortcut Connections Based Deep Speaker Embeddings for End-to-End Speaker Verification System* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2195.html)]
+  - `TI-SR` `VoxCeleb` `Multi-stage aggregation (MSA)`
 
 - [ ] Chang Huai You, Jichen Yang, Huy Dat Tran. *Device Feature Extractor for Replay Spoofing Detection* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2137.html)]
 
