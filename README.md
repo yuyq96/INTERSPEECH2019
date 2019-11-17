@@ -94,8 +94,36 @@
 
 ### Poster 6-A: Speaker Recognition and Anti-Spoofing
 
+- [ ] Anderson R. Avila, Jahangir Alam, Douglas O’Shaughnessy, Tiago H. Falk. *Blind Channel Response Estimation for Replay Attack Detection* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2956.html)]
+
+- [ ] Ankur T. Patil, Rajul Acharya, Pulikonda Aditya Sai, Hemant A. Patil. *Energy Separation-Based Instantaneous Frequency Estimation for Cochlear Cepstral Feature for Replay Spoof Detection* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2742.html)]
+
+- [ ] Victoria Mingote, Antonio Miguel, Dayana Ribas, Alfonso Ortega, Eduardo Lleida. *Optimization of False Acceptance/Rejection Rates and Decision Threshold for End-to-End Text-Dependent Speaker Verification Systems* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2550.html)]
+
 - [x] Lei Fan, Qing-Yuan Jiang, Ya-Qi Yu, Wu-Jun Li. *Deep Hashing for Speaker Identification and Retrieval* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2457.html)]
   - `TI-SR` `VoxCeleb` `Deep additive margin hashing (DAMH)`
+
+- [ ] Mirko Marras, Paweł Korus, Nasir Memon, Gianni Fenu. *Adversarial Optimization for Dictionary Attacks on Speaker Verification* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2430.html)]
+
+- [ ] Tharshini Gunendradasan, Eliathamby Ambikairajah, Julien Epps, Haizhou Li. *An Adaptive-Q Cochlear Model for Replay Spoofing Detection* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2361.html)]
+
+- [ ] Sungrack Yun, Janghoon Cho, Jungyun Eum, Wonil Chang, Kyuwoong Hwang. *An End-to-End Text-Independent Speaker Verification Framework with a Keyword Adversarial Network* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2208.html)]
+
+- [ ] Soonshin Seo, Daniel Jun Rim, Minkyu Lim, Donghyun Lee, Hosung Park, Junseok Oh, Changmin Kim, Ji-Hwan Kim. *Shortcut Connections Based Deep Speaker Embeddings for End-to-End Speaker Verification System* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2195.html)]
+
+- [ ] Chang Huai You, Jichen Yang, Huy Dat Tran. *Device Feature Extractor for Replay Spoofing Detection* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2137.html)]
+
+- [ ] Hongji Wang, Heinrich Dinkel, Shuai Wang, Yanmin Qian, Kai Yu. *Cross-Domain Replay Spoofing Attack Detection Using Domain Adversarial Training* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2120.html)]
+
+- [ ] A. Kanagasundaram, S. Sridharan, G. Sriram, S. Prachi, C. Fookes. *A Study of x-Vector Based Speaker Recognition on Short Utterances* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1891.html)]
+
+- [ ] Nanxin Chen, Jesús Villalba, Najim Dehak. *Tied Mixture of Factor Analyzers Layer to Combine Frame Level Representations in Neural Speaker Embeddings* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1782.html)]
+
+- [ ] Buddhi Wickramasinghe, Eliathamby Ambikairajah, Julien Epps. *Biologically Inspired Adaptive-Q Filterbanks for Replay Spoofing Attack Detection* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1535.html)]
+
+- [ ] Pierre-Michel Bousquet, Mickael Rouvier. *On Robustness of Unsupervised Domain Adaptation for Speaker Recognition* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1524.html)]
+
+- [ ] Suwon Shon, Younggun Lee, Taesu Kim. *Large-Scale Speaker Retrieval on Random Speaker Variability Subspace* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1498.html)]
 
 ### Poster 9-A: Speaker and Language Recognition 2
 
