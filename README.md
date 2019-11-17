@@ -117,7 +117,10 @@
 
 - [ ] Hongji Wang, Heinrich Dinkel, Shuai Wang, Yanmin Qian, Kai Yu. *Cross-Domain Replay Spoofing Attack Detection Using Domain Adversarial Training* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2120.html)]
 
-- [ ] A. Kanagasundaram, S. Sridharan, G. Sriram, S. Prachi, C. Fookes. *A Study of x-Vector Based Speaker Recognition on Short Utterances* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1891.html)]
+- [x] A. Kanagasundaram, S. Sridharan, G. Sriram, S. Prachi, C. Fookes. *A Study of x-Vector Based Speaker Recognition on Short Utterances* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1891.html)]
+  - `TI-SR` `NIST`
+  - Low-dimensional embedding from deeper layer performs better in short utterance evaluation
+  - Duration of development and evaluation utterances should be matched
 
 - [ ] Nanxin Chen, Jesús Villalba, Najim Dehak. *Tied Mixture of Factor Analyzers Layer to Combine Frame Level Representations in Neural Speaker Embeddings* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1782.html)]
 
