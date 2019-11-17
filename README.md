@@ -80,6 +80,8 @@
   - A large weight decay at 0.01
 
 - [ ] Amirhossein Hajavi, Ali Etemad. *A Deep Neural Network for Short-Segment Speaker Recognition* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2240.html)]
+  - `TI-SR` `VoxCeleb` `Multi-stage aggregation`
+  - Apply non-linear aggregator over embeddings from different stage
 
 - [x] Jianfeng Zhou, Tao Jiang, Zheng Li, Lin Li, Qingyang Hong. *Deep Speaker Embedding Extraction with Channel-Wise Feature Responses and Additive Supervision Softmax Loss Function* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1704.html)]
   - `TI-SR` `VoxCeleb` `Conv1D` `Squeeze-and-excitation (SE)` `Additive supervision softmax`
