@@ -130,7 +130,7 @@
 
 - [x] Suwon Shon, Younggun Lee, Taesu Kim. *Large-Scale Speaker Retrieval on Random Speaker Variability Subspace* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1498.html)]
   - `TI-SR` `VoxCeleb` `LSH`
-  - Projecting on random speaker-variability subspace instead of random subspace
+  - Projecting on random speaker-variability subspace (LDA on random subset of speakers) instead of random subspace
 
 ### Poster 9-A: Speaker and Language Recognition 2
 
