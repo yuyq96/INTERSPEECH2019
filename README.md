@@ -11,7 +11,7 @@
 ### Oral 1-1: End-to-End Speech Recognition
 
 - [x] Jason Li, Vitaly Lavrukhin, Boris Ginsburg, Ryan Leary, Oleksii Kuchaiev, Jonathan M. Cohen, Huyen Nguyen, Ravi Teja Gadde. *Jasper: An End-to-End Convolutional Neural Acoustic Model* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1819.html)]
-  - `ASR` `LibriSpeech` `WSJ` `Hub5'00` `1D Conv` `Dense Residual` `NovoGrad`
+  - `ASR` `LibriSpeech` `WSJ` `Hub5'00` `Conv1D` `Dense Residual` `NovoGrad`
 
 ### Poster 1-A: Speaker Recognition and Diarization
 
@@ -81,7 +81,9 @@
 
 - [ ] Amirhossein Hajavi, Ali Etemad. *A Deep Neural Network for Short-Segment Speaker Recognition* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2240.html)]
 
-- [ ] Jianfeng Zhou, Tao Jiang, Zheng Li, Lin Li, Qingyang Hong. *Deep Speaker Embedding Extraction with Channel-Wise Feature Responses and Additive Supervision Softmax Loss Function* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1704.html)]
+- [x] Jianfeng Zhou, Tao Jiang, Zheng Li, Lin Li, Qingyang Hong. *Deep Speaker Embedding Extraction with Channel-Wise Feature Responses and Additive Supervision Softmax Loss Function* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1704.html)]
+  - `TI-SR` `VoxCeleb` `Conv1D` `Squeeze-and-excitation (SE)` `Additive supervision softmax`
+  - Use statistics pooling to replace global average pooling in squeeze-and-excitation
 
 - [ ] Suwon Shon, Hao Tang, James Glass. *VoiceID Loss: Speech Enhancement for Speaker Verification* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1496.html)]
 
