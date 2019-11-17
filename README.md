@@ -70,7 +70,9 @@
 
 ### Oral 8-5: Speaker Recognition 2
 
-- [ ] Themos Stafylakis, Johan Rohdin, Oldřich Plchot, Petr Mizera, Lukáš Burget. *Self-Supervised Speaker Embeddings* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2842.html)]
+- [x] Themos Stafylakis, Johan Rohdin, Oldřich Plchot, Petr Mizera, Lukáš Burget. *Self-Supervised Speaker Embeddings* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2842.html)]
+  - `TI-SR` `VoxCeleb` `SITW` `Self-supervised`
+  - Reconstruct frames using speaker embedding and ASR outputs
 
 - [ ] Andreas Nautsch, Jose Patino, Amos Treiber, Themos Stafylakis, Petr Mizera, Massimiliano Todisco, Thomas Schneider, Nicholas Evans. *Privacy-Preserving Speaker Recognition with Cohort Score Normalisation* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2638.html)]
 
