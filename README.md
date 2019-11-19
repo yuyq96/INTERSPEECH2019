@@ -134,4 +134,47 @@
 
 ### Poster 9-A: Speaker and Language Recognition 2
 
+- [ ] Qing Wang, Pengcheng Guo, Sining Sun, Lei Xie, John H.L. Hansen. *Adversarial Regularization for End-to-End Robust Speaker Verification* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2983.html)]
+
+
+- [ ] João Monteiro, Jahangir Alam, Tiago H. Falk. *Combining Speaker Recognition and Metric Learning for Speaker-Dependent Representation Learning* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2974.html)]
+
+
+- [ ] Yang Zhang, Lantian Li, Dong Wang. *VAE-Based Regularization for Deep Speaker Embedding* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2486.html)]
+
+
+- [ ] Victoria Mingote, Diego Castan, Mitchell McLaren, Mahesh Kumar Nandwana, Alfonso Ortega, Eduardo Lleida, Antonio Miguel. *Language Recognition Using Triplet Neural Networks* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2437.html)]
+
+
+- [ ] Youngmoon Jung, Younggwan Kim, Hyungjun Lim, Yeunju Choi, Hoirin Kim. *Spatial Pyramid Encoding with Convex Length Normalization for Text-Independent Speaker Verification* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2177.html)]
+
+
+- [ ] Hee-Soo Heo, Jee-weon Jung, IL-Ho Yang, Sung-Hyun Yoon, Hye-jin Shim, Ha-Jin Yu. *End-to-End Losses Based on Speaker Basis Vectors and All-Speaker Hard Negative Mining for Speaker Verification* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1986.html)]
+
+- [x] Yiheng Jiang, Yan Song, Ian McLoughlin, Zhifu Gao, Li-Rong Dai. *An Effective Deep Embedding Learning Architecture for Speaker Verification* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1606.html)]
+  - `TI-SR` `VoxCeleb` `DenseNet` `Squeeze-and-excitation`
+
+- [ ] Xiaoyi Qin, Danwei Cai, Ming Li. *Far-Field End-to-End Text-Dependent Speaker Verification Based on Mixed Training Data with Transfer Learning and Enrollment Data Augmentation* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1542.html)]
+
+
+- [ ] Zongze Ren, Guofu Yang, Shugong Xu. *Two-Stage Training for Chinese Dialect Recognition* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1522.html)]
+
+
+- [ ] Ryota Kaminishi, Haruna Miyamoto, Sayaka Shiota, Hitoshi Kiya. *Investigation on Blind Bandwidth Extension with a Non-Linear Function and its Evaluation of x-Vector-Based Speaker Verification* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1510.html)]
+
+
+- [ ] Umair Khan, Miquel India, Javier Hernando. *Auto-Encoding Nearest Neighbor i-Vectors for Speaker Verification* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1444.html)]
+
+
+- [ ] Siqi Zheng, Gang Liu, Hongbin Suo, Yun Lei. *Towards a Fault-Tolerant Speaker Verification System: A Regularization Approach to Reduce the Condition Number* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1442.html)]
+
+
+- [ ] Hassan Taherian, Zhong-Qiu Wang, DeLiang Wang. *Deep Learning Based Multi-Channel Speaker Recognition in Noisy and Reverberant Environments* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1428.html)]
+
+
+- [ ] Joon-Young Yang, Joon-Hyuk Chang. *Joint Optimization of Neural Acoustic Beamforming and Dereverberation with x-Vectors for Robust Speaker Verification* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1356.html)]
+
+
+- [ ] Xiaoxiao Miao, Ian McLoughlin, Yonghong Yan. *A New Time-Frequency Attention Mechanism for TDNN and CNN-LSTM-TDNN, with Application to Language Identification* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1256.html)]
+
 ### Poster 10-A: Speaker Recognition 3
