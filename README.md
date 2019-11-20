@@ -46,15 +46,15 @@
   - `TI-SR` `TIMIT` `LibriSpeech` `VoxCeleb` `Unsupervised learning` `Mutual information`
 
 - [x] Lanhua You, Wu Guo, Li-Rong Dai, Jun Du. *Multi-Task Learning with High-Order Statistics for X-vector based Text-Independent Speaker Verification* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2264.html)]
-  - `TI-SR` `SRE` `VOiCES` `Multi-task learning`
+  - `TI-SR` `NIST SRE` `VOiCES` `Multi-task learning`
   - Use the first- and higher-order statistics as the reconstruction targets
 
 - [x] Zhanghao Wu, Shuai Wang, Yanmin Qian, Kai Yu. *Data Augmentation Using Variational Autoencoder for Embedding Based Speaker Verification* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2248.html)]
-  - `TI-SR` `SRE` `Data augmentation` `Conditional VAE`
+  - `TI-SR` `NIST SRE` `Data augmentation` `Conditional VAE`
   - Train CVAE on manually augmented samples, then generate more embeddings for training PLDA
 
 - [x] Lanhua You, Wu Guo, Li-Rong Dai, Jun Du. *Deep Neural Network Embeddings with Gating Mechanisms for Text-Independent Speaker Verification* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1746.html)]
-  - `TI-SR` `SRE` `Gated CNN` `Gated-attention statistics pooling`
+  - `TI-SR` `NIST SRE` `Gated CNN` `Gated-attention statistics pooling`
 
 ### Oral 4-1: Speaker and Language Recognition 1
 
@@ -118,7 +118,7 @@
 - [ ] Hongji Wang, Heinrich Dinkel, Shuai Wang, Yanmin Qian, Kai Yu. *Cross-Domain Replay Spoofing Attack Detection Using Domain Adversarial Training* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2120.html)]
 
 - [x] A. Kanagasundaram, S. Sridharan, G. Sriram, S. Prachi, C. Fookes. *A Study of x-Vector Based Speaker Recognition on Short Utterances* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1891.html)]
-  - `TI-SR` `NIST`
+  - `TI-SR` `NIST SRE`
   - Low-dimensional embedding from deeper layer performs better in short utterance evaluation
   - Duration of development and evaluation utterances should be matched
 
