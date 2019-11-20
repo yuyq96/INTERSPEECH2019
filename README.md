@@ -157,8 +157,9 @@
 - [ ] Xiaoyi Qin, Danwei Cai, Ming Li. *Far-Field End-to-End Text-Dependent Speaker Verification Based on Mixed Training Data with Transfer Learning and Enrollment Data Augmentation* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1542.html)]
 
 
-- [ ] Zongze Ren, Guofu Yang, Shugong Xu. *Two-Stage Training for Chinese Dialect Recognition* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1522.html)]
+- [x] Zongze Ren, Guofu Yang, Shugong Xu. *Two-Stage Training for Chinese Dialect Recognition* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1522.html)]
   - `LR`
+  - First train an acoustic model then fix the parameters of CNN and replace the RNN to train a language identification model
 
 - [ ] Ryota Kaminishi, Haruna Miyamoto, Sayaka Shiota, Hitoshi Kiya. *Investigation on Blind Bandwidth Extension with a Non-Linear Function and its Evaluation of x-Vector-Based Speaker Verification* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1510.html)]
 
