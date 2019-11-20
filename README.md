@@ -167,8 +167,11 @@
 - [ ] Umair Khan, Miquel India, Javier Hernando. *Auto-Encoding Nearest Neighbor i-Vectors for Speaker Verification* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1444.html)]
 
 
-- [ ] Siqi Zheng, Gang Liu, Hongbin Suo, Yun Lei. *Towards a Fault-Tolerant Speaker Verification System: A Regularization Approach to Reduce the Condition Number* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1442.html)]
-
+- [x] Siqi Zheng, Gang Liu, Hongbin Suo, Yun Lei. *Towards a Fault-Tolerant Speaker Verification System: A Regularization Approach to Reduce the Condition Number* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1442.html)]
+  - `TI-SR` `NIST SRE` `Mislabeled` `Condition number`
+  - Entropy loss regularization: adopt float labels (0~1) which will be regularized by entropy loss
+  - Segment reshuffling: segment less confident utterances and attach them to other utterances for data augmentation
+  - Co-training: split dataset to create multi-view
 
 - [ ] Hassan Taherian, Zhong-Qiu Wang, DeLiang Wang. *Deep Learning Based Multi-Channel Speaker Recognition in Noisy and Reverberant Environments* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1428.html)]
 
