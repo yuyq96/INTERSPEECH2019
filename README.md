@@ -137,8 +137,8 @@
 - [x] Qing Wang, Pengcheng Guo, Sining Sun, Lei Xie, John H.L. Hansen. *Adversarial Regularization for End-to-End Robust Speaker Verification* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2983.html)]
   - `TI-SR` `TIMIT` `GE2E` `Fast gradient-sign method (FGSM)` `Local distributional smoothness (LDS)`
 
-- [ ] João Monteiro, Jahangir Alam, Tiago H. Falk. *Combining Speaker Recognition and Metric Learning for Speaker-Dependent Representation Learning* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2974.html)]
-
+- [x] João Monteiro, Jahangir Alam, Tiago H. Falk. *Combining Speaker Recognition and Metric Learning for Speaker-Dependent Representation Learning* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2974.html)]
+  - `TI-SR` `NIST SRE` `Triplet loss`
 
 - [ ] Yang Zhang, Lantian Li, Dong Wang. *VAE-Based Regularization for Deep Speaker Embedding* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2486.html)]
 
