@@ -158,7 +158,7 @@
 
 
 - [ ] Zongze Ren, Guofu Yang, Shugong Xu. *Two-Stage Training for Chinese Dialect Recognition* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1522.html)]
-
+  - `LR`
 
 - [ ] Ryota Kaminishi, Haruna Miyamoto, Sayaka Shiota, Hitoshi Kiya. *Investigation on Blind Bandwidth Extension with a Non-Linear Function and its Evaluation of x-Vector-Based Speaker Verification* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1510.html)]
 
