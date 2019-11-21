@@ -182,3 +182,33 @@
 - [ ] Xiaoxiao Miao, Ian McLoughlin, Yonghong Yan. *A New Time-Frequency Attention Mechanism for TDNN and CNN-LSTM-TDNN, with Application to Language Identification* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1256.html)]
 
 ### Poster 10-A: Speaker Recognition 3
+
+- [ ] Yusuke Fujita, Naoyuki Kanda, Shota Horiguchi, Kenji Nagamatsu, Shinji Watanabe. *End-to-End Neural Speaker Diarization with Permutation-Free Objectives* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2899.html)]
+
+- [ ] Miquel India, Pooyan Safari, Javier Hernando. *Self Multi-Head Attention for Speaker Recognition* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2616.html)]
+
+- [ ] Ignacio Viñals, Dayana Ribas, Victoria Mingote, Jorge Llombart, Pablo Gimeno, Antonio Miguel, Alfonso Ortega, Eduardo Lleida. *Phonetically-Aware Embeddings, Wide Residual Networks with Time-Delay Neural Networks and Self Attention Models for the 2018 NIST Speaker Recognition Evaluation* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2417.html)]
+
+- [ ] Youzhi Tu, Man-Wai Mak, Jen-Tzung Chien. *Variational Domain Adversarial Learning for Speaker Verification* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2168.html)]
+
+- [ ] Tianchi Liu, Maulik Madhavi, Rohan Kumar Das, Haizhou Li. *A Unified Framework for Speaker and Utterance Verification* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1994.html)]
+
+- [ ] Mahesh Kumar Nandwana, Luciana Ferrer, Mitchell McLaren, Diego Castan, Aaron Lawson. *Analysis of Critical Metadata Factors for the Calibration of Speaker Recognition Systems* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1808.html)]
+
+- [ ] Ondřej Novotný, Oldřich Plchot, Ondřej Glembek, Lukáš Burget. *Factorization of Discriminatively Trained i-Vector Extractor for Speaker Recognition* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1757.html)]
+
+- [ ] Daniele Salvati, Carlo Drioli, Gian Luca Foresti. *End-to-End Speaker Identification in Noisy and Reverberant Environments Using Raw Waveform Convolutional Neural Networks* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2403.html)]
+
+- [ ] Abinay Reddy Naini, Achuth Rao M.V., Prasanta Kumar Ghosh. *Whisper to Neutral Mapping Using Cosine Similarity Maximization in i-Vector Space for Speaker Verification* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2280.html)]
+
+- [ ] Yingke Zhu, Tom Ko, Brian Mak. *Mixup Learning Strategies for Text-Independent Speaker Verification* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2250.html)]
+
+- [ ] Luciana Ferrer, Mitchell McLaren. *Optimizing a Speaker Embedding Extractor Through Backend-Driven Regularization* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1820.html)]
+
+- [ ] Kong Aik Lee, Hitoshi Yamamoto, Koji Okabe, Qiongqiong Wang, Ling Guo, Takafumi Koshinaka, Jiacen Zhang, Koichi Shinoda. *The NEC-TT 2018 Speaker Verification System* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1517.html)]
+
+- [ ] Siqi Zheng, Gang Liu, Hongbin Suo, Yun Lei. *Autoencoder-Based Semi-Supervised Curriculum Learning for Out-of-Domain Speaker Verification* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1440.html)]
+
+- [ ] Danwei Cai, Xiaoyi Qin, Ming Li. *Multi-Channel Training for End-to-End Speaker Recognition Under Reverberant and Noisy Environment* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1437.html)]
+
+- [ ] Danwei Cai, Weicheng Cai, Ming Li. *The DKU-SMIIP System for NIST 2018 Speaker Recognition Evaluation* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1436.html)]
