@@ -207,7 +207,8 @@
 
 - [ ] Kong Aik Lee, Hitoshi Yamamoto, Koji Okabe, Qiongqiong Wang, Ling Guo, Takafumi Koshinaka, Jiacen Zhang, Koichi Shinoda. *The NEC-TT 2018 Speaker Verification System* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1517.html)]
 
-- [ ] Siqi Zheng, Gang Liu, Hongbin Suo, Yun Lei. *Autoencoder-Based Semi-Supervised Curriculum Learning for Out-of-Domain Speaker Verification* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1440.html)]
+- [x] Siqi Zheng, Gang Liu, Hongbin Suo, Yun Lei. *Autoencoder-Based Semi-Supervised Curriculum Learning for Out-of-Domain Speaker Verification* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1440.html)]
+  - `TD-SR` `TI-SR` `Semi-supervised Learning` `Curriculum Learning` `DAE`
 
 - [ ] Danwei Cai, Xiaoyi Qin, Ming Li. *Multi-Channel Training for End-to-End Speaker Recognition Under Reverberant and Noisy Environment* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1437.html)]
 
