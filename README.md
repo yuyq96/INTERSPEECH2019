@@ -152,7 +152,7 @@
 - [ ] Hee-Soo Heo, Jee-weon Jung, IL-Ho Yang, Sung-Hyun Yoon, Hye-jin Shim, Ha-Jin Yu. *End-to-End Losses Based on Speaker Basis Vectors and All-Speaker Hard Negative Mining for Speaker Verification* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1986.html)]
 
 - [x] Yiheng Jiang, Yan Song, Ian McLoughlin, Zhifu Gao, Li-Rong Dai. *An Effective Deep Embedding Learning Architecture for Speaker Verification* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1606.html)]
-  - `TI-SV` `VoxCeleb` `DenseNet` `Squeeze-and-excitation`
+  - `TI-SV` `VoxCeleb` `SITW` `DenseNet` `Squeeze-and-excitation`
 
 - [ ] Xiaoyi Qin, Danwei Cai, Ming Li. *Far-Field End-to-End Text-Dependent Speaker Verification Based on Mixed Training Data with Transfer Learning and Enrollment Data Augmentation* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1542.html)]
 
